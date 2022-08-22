@@ -1,0 +1,25 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color:aquamarine;
+}
+#user-form{
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+#user-form>input{
+    height: 40px;
+    width: 300px;
+}
+#user-form>select{
+    height: 40px;
+    width: 308px;
+}
+#user-form>button{
+    height: 40px;
+    width: 308px;
+}
